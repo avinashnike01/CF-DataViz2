@@ -1,0 +1,19 @@
+# Streamlit Dashboard Requirements
+# Python 3.8+ required
+
+# Core Framework
+streamlit==1.32.0
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+openpyxl==3.1.2
+
+# Visualization
+plotly==5.18.0
+
+# Machine Learning (for data normalization)
+scikit-learn==1.4.0
+
+# Additional Utilities
+python-dateutil==2.8.2
