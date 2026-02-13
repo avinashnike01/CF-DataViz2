@@ -849,8 +849,7 @@ def apply_custom_css():
     
     /* KPI card styling */
     .kpi-card {
-        # background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
